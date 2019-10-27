@@ -14,7 +14,7 @@ SITE_IDENTIFIER = 'tfarjo'
 SITE_NAME = 'Tfarjo'
 SITE_DESC = 'Films & Séries en streaming VO | VF | VOSTFR'
 
-#URL_MAIN = 'https://www5.tfarjo.ws/'
+#URL_MAIN = 'https://tfarjo.biz/'
 #URL_MAIN = 'https://www.filmz.cc/'
 URL_MAIN = 'https://www.tfarjo.cc/'
 
